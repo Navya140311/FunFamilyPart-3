@@ -1,0 +1,22 @@
+body{
+    background:yellow;
+    color: darkblue;
+}
+
+.heading{
+    width: 70%;
+    font-size: 22px;
+}
+#camera{
+    border: 2px #0000CD dashed;
+    width: 350px;
+    height: #0000CD;;
+}
+#result_object_name,#result_object_accuracy,.name_of_objects{
+ color: #0000CD;   
+}
+
+#v{
+    background:#0000CD;
+    color: yellow;
+}
